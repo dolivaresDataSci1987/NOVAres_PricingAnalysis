@@ -68,7 +68,3 @@ The final figures generated in the notebook are designed for **direct use in exe
 ### Small Actors
 - Choose niche dominance or consolidation.
 - Symmetric growth alone will not alter positioning.
-
----
-
-## 📂 Repository Structure
